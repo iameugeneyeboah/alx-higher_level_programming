@@ -1,0 +1,1 @@
+We are starting high level programming. Python is a high level programming language.
